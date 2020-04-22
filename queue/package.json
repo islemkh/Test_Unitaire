@@ -1,0 +1,15 @@
+{
+  "name": "td2",
+  "version": "1.0.0",
+  "main": "rechercheDic.js",
+  "scripts": {
+    "test": "jest",
+    "start": "nodemon rechercheDic"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.3"
+  },
+  "description": ""
+}
