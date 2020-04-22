@@ -153,4 +153,4 @@ describe("test remove first to a queue ", ()=>{
         const  queue = {list:[],capacity:10}  
         expected(()=> removeFirst(queue)).toThrowError(/vide/gi)
       })
-})
+}) 
